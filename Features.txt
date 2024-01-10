@@ -1,0 +1,15 @@
+--- EASY FEATURES ----   Points
+* Counting score         ( 1 )
+* Sounds                 ( 1 )
+* Hot seat multiplayer   ( 1 )
+* Hit points             (1.5)
+* Respawn protection     (1.5)
+
+
+--- MEDIUM FEATURES ---- Points
+* Welcome screen         (2.5)
+* Score screen           (2.5)
+* Recoil                 ( 2 )
+* Explosions             ( 2 )
+_______________________________
+TOTAL POINTS:             15 
